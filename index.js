@@ -1,1 +1,1 @@
-TextDecoderStream;
+console.log("Oi");
